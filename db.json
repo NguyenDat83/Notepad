@@ -2,7 +2,7 @@
   "notes": [
               {
                 "id": 1,
-                "tilte": "Tgian",
+                "title": "Tgian",
                 "content": "thời gian làm từ 10h sáng đến 17h chiều",
                 "priority": 1,
                 "createdAt": "1987-07-25T00:00.000Z"
